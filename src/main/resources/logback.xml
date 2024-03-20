@@ -13,7 +13,7 @@
                 <rootCauseFirst>true</rootCauseFirst>
                 <inlineHash>true</inlineHash>
             </throwableConverter>
-            <includeMdcKeyName>x-user-id</includeMdcKeyName>
+            <includeMdcKeyName>x-client-id</includeMdcKeyName>
             <includeMdcKeyName>x-request-id</includeMdcKeyName>
             <fieldNames>
                 <timestamp>@timestamp</timestamp>
